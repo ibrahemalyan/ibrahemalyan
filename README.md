@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahem Alyan</h1>
-<h3 align="center">Electrical Engineering and Computer Science student at the Hebrew University, with a deep interest in Signal processing and Computer Vision</h3>
+<h3 align="center">Electrical Engineering and Computer Science student at the Hebrew University, with a deep interest in Signal processing and Computer vision</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahemalyan&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahemalyan" /> </p>
 
 - 👨‍💻 My Personal Website [www.ibrahemalyan.com](www.ibrahemalyan.com)
 
