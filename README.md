@@ -2,7 +2,7 @@
 <h3 align="center">Electrical Engineering and Computer Science student at the Hebrew University, with a deep interest in Signal processing and Computer vision</h3>
 
 
-- 👨‍💻 My Personal Website <a href="www.ibrahemalyan.com">www.ibrahemalyan.com</a>
+- 👨‍💻 My Personal Website <a href="https://www.ibrahemalyan.com">www.ibrahemalyan.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
